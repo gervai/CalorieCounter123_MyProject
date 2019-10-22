@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1029182879778",
+    "firebase_url": "https://caloriecounter-860d9.firebaseio.com",
+    "project_id": "caloriecounter-860d9",
+    "storage_bucket": "caloriecounter-860d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029182879778:android:28696d924c7abef062327b",
+        "android_client_info": {
+          "package_name": "edu.ktu.caloriecounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029182879778-rqrk6f8l3u209fqgvn6u18gb0v8lu98g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ktu.caloriecounter",
+            "certificate_hash": "59ba8a4d0af8d2cc567fbb51cb154794628d73b7"
+          }
+        },
+        {
+          "client_id": "1029182879778-kifka1kgg7q2rakaqfq9cph2qidsf1er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH69sbjd6_tQ4ucqDrHaNMyot7OIPhvqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029182879778-kifka1kgg7q2rakaqfq9cph2qidsf1er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029182879778:android:670d4ef44b65bd0f62327b",
+        "android_client_info": {
+          "package_name": "edu.ktu.caloriecounter123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029182879778-krcsao5qjs0oscousj7s797hrmj986e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ktu.caloriecounter123",
+            "certificate_hash": "59ba8a4d0af8d2cc567fbb51cb154794628d73b7"
+          }
+        },
+        {
+          "client_id": "1029182879778-kifka1kgg7q2rakaqfq9cph2qidsf1er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH69sbjd6_tQ4ucqDrHaNMyot7OIPhvqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029182879778-kifka1kgg7q2rakaqfq9cph2qidsf1er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
